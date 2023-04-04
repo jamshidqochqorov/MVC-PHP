@@ -1,3 +1,3 @@
 mvc fremwork quramiz
 php -S localhost:8080 // php loyhamizni porta ishga tushirib beradi
-birinchi o'rinda
+all_user_func callback dan kelgan malumotga qarab turib
