@@ -1,3 +1,6 @@
 mvc fremwork quramiz
 php -S localhost:8080 // php loyhamizni porta ishga tushirib beradi
 all_user_func callback dan kelgan malumotga qarab turib
+__DIR__ QANDAY ISHLAYDI ? app papkaga nisabatan pathni olamiz
+
+birinchi layoutsni olamiz va page larni olamiz va str_replace orqali contentni almashitiirb qo'yamiz!
