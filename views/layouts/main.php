@@ -21,6 +21,8 @@
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/contact">Contact</a>
+                    </li> <li class="nav-item">
+                        <a class="nav-link" href="/blog">Blog</a>
                     </li>
 
             </div>
